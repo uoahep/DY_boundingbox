@@ -11,3 +11,9 @@
 <p align="center">
 <img width="400" height="150" src="https://github.com/user-attachments/assets/20d42cc3-7fb4-4df2-9af4-6e61dcc880c6">
 </p>
+
+
+git log
+
+git reset --hard HEAD~5
+
