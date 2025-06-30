@@ -13,7 +13,3 @@
 </p>
 
 
-git log
-
-git reset --hard HEAD~5
-
