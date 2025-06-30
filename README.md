@@ -1,2 +1,2 @@
-# DY_boundingbox
-객체 탐지 모델 사용 과제
+# PROJ_HW1_boundingbox
+과제1_YOLOv5 객체탐지모델
